@@ -1,0 +1,27 @@
+{
+  "name": "api-cirugia",
+  "version": "1.0.0",
+  "description": "Proyecto Departamento Cirugía - UNAM",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index.js"
+  },
+  "author": "Leonardo Olmos",
+  "license": "MIT",
+  "dependencies": {
+    "angular2-materialize": "^6.3.0",
+    "bcrypt-nodejs": "0.0.3",
+    "body-parser": "^1.15.2",
+    "cors": "^2.8.1",
+    "express": "^4.14.0",
+    "hammerjs": "^2.0.8",
+    "jquery": "^2.2.4",
+    "materialize-css": "^0.97.8",
+    "method-override": "^2.3.7",
+    "mongoose": "^4.6.3"
+  },
+  "devDependencies": {
+    "nodemon": "^1.11.0"
+  }
+}
